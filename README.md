@@ -40,7 +40,7 @@ Cuando creamos un proyecto lo primero es crear un archivo de HTML el cuál lo no
 
 ### Anatomía de una etiqueta de HTML
 
-![Antomía-etiqueta-html](/home/alexc/src/git/github/alex-chip/platzi/cursos/escuela-desarrollo-web/curso-definitivo-html-css/Images/anatomia de html-fc475d3a-6d91-41b5-a893-ee4790dcb637.webp)
+![Antomía-etiqueta-html](https://raw.githubusercontent.com/alex-chip/Curso-definitivo-HTML-CSS/master/Images/anatomia%20de%20html-fc475d3a-6d91-41b5-a893-ee4790dcb637.webp)
 
 
 
@@ -73,7 +73,7 @@ Dicho esto, ¿qué formatos de imágenes existen? :
 
 ### Diferencia de Imágenes
 
-![Tipo de Imágenes](/home/alexc/src/git/github/alex-chip/platzi/cursos/escuela-desarrollo-web/curso-definitivo-html-css/Images/table for diferent images-42fdf349-a492-4ff5-afbd-1f437c804e4a.webp)
+![Tipo de Imágenes](https://raw.githubusercontent.com/alex-chip/Curso-definitivo-HTML-CSS/master/Images/table%20for%20diferent%20images-42fdf349-a492-4ff5-afbd-1f437c804e4a.webp)
 
 
 
@@ -127,5 +127,5 @@ Los formularios nos ayudan a poder recolectar información de los usuarios, tal 
 
 Para indicar al navegador que habrá un formulario utilizamos la etiqueta `form`
 
-#### Calendar
+
 
